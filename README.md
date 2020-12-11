@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![application preview](./public/assets/preview.PNG)
+
 ## Description
 
 A web application to track user's workout data with chart visuals.
@@ -15,6 +17,12 @@ A web application to track user's workout data with chart visuals.
 5. [Questions](#Questions)
 
 ## Installation & Usage
+
+#### Option 1: Use Deployed Link
+
+:link: [application link](https://powerful-beach-24208.herokuapp.com/)
+
+#### Option 2: Run Locally
 
 1. Run `npm install` to install all dependencies.
 2. Seeding with `npm run seed` command to insert sample data into the database.
